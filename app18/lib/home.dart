@@ -91,7 +91,7 @@ class _HomeState extends State<Home> {
                       "Obter Perfil",
                       style: TextStyle(
                         color: Colors.black,
-                        
+
                         fontSize: 20.0,
                       ),
                     ),
